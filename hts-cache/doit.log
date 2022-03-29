@@ -1,0 +1,8 @@
+-qw%e0C2%P%q0u65535%s%uN100%Ip7H0%kf2o0A25000%f#f -F "" -%F "" -%l "en, *" https://www.composersunion.ge/ -O1 "I:\OFFWeb\ComPII\ComP" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Fri, 25 Feb 2022 14:20:36, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
