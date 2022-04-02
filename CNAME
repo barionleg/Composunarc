@@ -1,5 +1,1 @@
-$ dig www.bard.cf +nostats +nocomments +nocmd
-    >                           3600    IN      A   185.199.108.153
-    > www                       3600    IN      A   185.199.111.153
-    >                           3600    IN      AAAA 2606:50c0:8000::153
-    
+bard.cf
