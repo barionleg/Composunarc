@@ -2,5 +2,4 @@ $ dig www.bard.cf +nostats +nocomments +nocmd
     > ;www.bard.cf.             3600    IN      A   185.199.108.153
     > www.bard.cf.              3600    IN      A   185.199.111.153
     >                           3600    IN      AAAA 2606:50c0:8000::153
-    > barionleg.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+    
